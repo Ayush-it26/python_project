@@ -1,2 +1,2 @@
 # python_project
-meet my personal assistant AI - STARVIX
+meet my personal AI assistant  - STARVIX
